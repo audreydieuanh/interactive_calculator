@@ -1,4 +1,4 @@
-Fun with Fractions
+# Interactive Calculator
 
 Author: **Dieu-Anh (Audrey) Trinh**
 
